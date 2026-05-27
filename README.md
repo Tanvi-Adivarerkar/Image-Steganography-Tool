@@ -32,5 +32,8 @@ A cybersecurity project based on image steganography that hides secret messages 
 - Multiple image format support
 - Advanced encryption algorithms
 
+## Output Screenshot
+![Output](Result.png)
+
 ## Author
 Tanvi Adivarekar
